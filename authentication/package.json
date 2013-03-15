@@ -4,7 +4,12 @@
   , "private": true
   , "dependencies": {
       "express": "2.5.8"
+<<<<<<< HEAD
     , "jade": "0.26.1"
     ,"mongoose": "2.6.5"
+=======
+    , "jade": ">= 0.0.1"
+    , "mongoose": "2.6.5"
+>>>>>>> 79d9bf526144dc5ff97b089a2899c1dd7b421afe
   }
 }
